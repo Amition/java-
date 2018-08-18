@@ -10,7 +10,7 @@ public class Main {
 		myArray.insert(30);
 		myArray.insert(10);
 		
-		System.err.println(myArray.search(30));
+		System.err.println(myArray.search(30)+".........");
 		System.err.println(myArray.get(3));
 		System.out.println(myArray.binarysearch(30));
 		
