@@ -16,6 +16,7 @@ public class Main {
 		System.out.println("Git hos_fix......");
 		System.out.println("sdfsfd......");
 		myArray.display();
+		System.out.println("..................................");
 		
 	}
 	
